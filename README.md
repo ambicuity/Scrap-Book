@@ -40,7 +40,7 @@ To create VMs and configure Kubernetes on the VMs, follow [zonca's blog](https:/
 ```
 # SSH into the master node of the Kubernetes cluster
 $ sudo su
-$ git clone https://github.com/airavata-courses/scrapbook.git
+$ git clone https://github.com/ambicuity/Scrap-Book.git
 $ cd scrapbook
 $ chmod +x deploy.sh
 $ ./deploy.sh
@@ -71,7 +71,7 @@ Please ensure you have these dependencies installed on your machine before insta
 
 ### Repository 
 ```
-$ git clone https://github.com/airavata-courses/scrapbook.git
+$ git clone https://github.com/ambicuity/Scrap-Book.git
 $ cd scrapbook
 ```
 
