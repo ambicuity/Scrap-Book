@@ -3,8 +3,6 @@
 
 Scrapbook is a micro-service architecture-based application that enables users to upload and manage images. It empowers users to share images securely by introducing various roles. Users can also access an intuitive dashboard to view different metrics and monitor various activities. Scrapbook aims to introduce simplicity in photo management.
 
-### 💻 [Production Demo](https://sb-ui-hrishikeshpaul.cloud.okteto.net/)
-
 ![banner](image/updated-napkin-diagram.png)
 
 <br>
