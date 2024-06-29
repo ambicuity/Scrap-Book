@@ -46,12 +46,6 @@ $ chmod +x deploy.sh
 $ ./deploy.sh
 ```
 
-- The production version is currently deployed at https://sb-ui-hrishikeshpaul.cloud.okteto.net/
-- [deprecated] The staging version is currently deployed at http://staging.scrapbook.rocks/
-- [deprecated] Jenkins is currently deployed at http://149.165.171.239:8080/
-- [deprecated] Redis instance is deployed at http://149.165.157.223:6379/
-- [deprecated] MongoDB instance is deployed at http://149.165.172.158:27017/
-
 #### Trigger a Production build
 
 Push to the `main` branch, and Jenkins will automatically deploy the whole application.
